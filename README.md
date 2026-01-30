@@ -56,7 +56,6 @@ The project contains unit tests for:
 4. Run on emulator or device
 2. Let Gradle sync
 
-```md
 ## 📸 Screenshots
 
 ### Home
@@ -67,7 +66,6 @@ The project contains unit tests for:
 
 ### Results
 ![](./screenshots/results.png)
-```
 
 ## 👤 Author
 ## Sam
