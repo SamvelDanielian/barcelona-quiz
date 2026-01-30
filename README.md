@@ -61,7 +61,7 @@ The project contains unit tests for:
 
 | Home | Quiz | Results |
 |------|------|---------|
-| ![](screenshots/home.png) | ![](screenshots/quiz.png) | ![](screenshots/results.png) |
+| ![](./screenshots/home.png) | ![](./screenshots/quiz.png) | ![](./screenshots/results.png) |
 ```
 
 ## 👤 Author
