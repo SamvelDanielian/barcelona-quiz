@@ -59,9 +59,14 @@ The project contains unit tests for:
 ```md
 ## 📸 Screenshots
 
-| Home | Quiz | Results |
-|------|------|---------|
-| ![](./screenshots/home.png) | ![](./screenshots/quiz.png) | ![](./screenshots/results.png) |
+### Home
+![](./screenshots/home.png)
+
+### Quiz
+![](./screenshots/quiz.png)
+
+### Results
+![](./screenshots/results.png)
 ```
 
 ## 👤 Author
